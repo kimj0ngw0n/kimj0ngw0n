@@ -6,3 +6,5 @@
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=#3776AB)
 ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=#276DC3)
 ![Django](https://img.shields.io/badge/-django-yellowgreen?style=flat&logo=Django&logoColor=#092E20)
+
+email : rlawhddnjs6629@gamil.com
